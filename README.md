@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&pause=1000&color=1082E5&width=435&lines=+%F0%9F%91%8B+Hi%2C+I'm+Aniket+More" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Comic+Sans+MS&size=30&pause=1000&color=1082E5&width=435&lines=+%F0%9F%91%8B+Hi%2C+I'm+Sairaj+Naik" alt="Typing SVG" /></a>
 ### 🚀 *DevOps Engineer | Cloud Engineer | Linux Engineer*
 
 🌐 Passionate about automating, monitoring, and optimizing infrastructure.

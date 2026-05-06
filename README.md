@@ -11,7 +11,7 @@
 
 <div align="center">
 
-<img src="file:///C:/Users/saira/Downloads/devops-animation.svg" alt="DevOps Animation" width="900"/>
+<img src=". /devops-animation.svg" alt="DevOps Animation" width="900"/>
 
 </div>
 
